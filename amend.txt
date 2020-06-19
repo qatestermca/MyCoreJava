@@ -1,0 +1,3 @@
+git commit --amend
+
+it will change file name before commit
